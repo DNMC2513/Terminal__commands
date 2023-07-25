@@ -3,18 +3,26 @@
 
 OUTLINE:
 1. A directory?
+
 a. What is a directory?
+
 b. Command to print the current directory on the screen:
+
 c. Rules to call out directories containing spaces ' ':
+
 d. Move to a dir:
+
 e. Rules to call out a directory:
 - Of a file that is inside the smallest folder of the dir:
 - Of a file that contains the smallest folder of the dir:
 - Of a file that is not on the same path leading to the dir:
 
 2. Working with a directory (folders & files):
+
 a. Create a new directory:
+
 b. Move to the the target directory:
+
 c. Show the content within a directory:
 - Normal way:
 - Files of the same format:
@@ -28,6 +36,7 @@ d. Remove a directory:
 - Remove the unempty files:
 
 3. Working with files:
+
 a. Show the content within a file:
 - Cmd Commands
 - PowerShell Commands (Cmdlet)
@@ -35,9 +44,13 @@ a. Show the content within a file:
 b. Create a new file:
 
 c. Copy a file:
+
 d. Move a file to a new folder:
+
 e. Assign the output of a command to a file:
+
 f. Compare files:
+
 g. Remove a file:
 
 
