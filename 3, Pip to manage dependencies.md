@@ -52,9 +52,9 @@ pip list -o
 pip list -u
 ```
 
-### d. chek whether the dependencies that others are reliant on are there:
+### d. check whether the dependencies that others are reliant on are there:
 ```bash
-pip chek
+pip check
 ```
 
 ## 3. pip to unistall:
